@@ -1,0 +1,69 @@
+cf-recommender/
+├── README.md
+├── .gitignore
+├── .env.example
+│
+├── backend/
+│   ├── app.py                    # Main Flask/FastAPI app
+│   ├── requirements.txt
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── user.py
+│   │   ├── problem.py
+│   │   └── recommendation.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── users.py
+│   │   ├── problems.py
+│   │   └── recommendations.py
+│   ├── services/
+│   │   ├── codeforces_api.py     # CF API calls
+│   │   ├── ml_service.py         # Simple ML recommendations
+│   │   └── database.py           # DB operations
+│   ├── utils/
+│   │   ├── helpers.py
+│   │   └── config.py
+│   └── data/
+│       └── problems.json         # Static problem data
+│
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── favicon.ico
+│   ├── src/
+│   │   ├── index.js
+│   │   ├── App.js
+│   │   ├── index.css
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── Dashboard.js
+│   │   │   ├── ProblemCard.js
+│   │   │   ├── UserProfile.js
+│   │   │   ├── Recommendations.js
+│   │   │   ├── Analytics.js
+│   │   │   └── Leaderboard.js
+│   │   ├── pages/
+│   │   │   ├── Home.js
+│   │   │   ├── Profile.js
+│   │   │   └── Problems.js
+│   │   ├── services/
+│   │   │   └── api.js             # API calls to backend
+│   │   └── utils/
+│   │       ├── helpers.js
+│   │       └── constants.js
+│   ├── package.json
+│   └── package-lock.json
+│
+├── ml/
+│   ├── train_model.py            # Simple ML training
+│   ├── recommend.py              # Recommendation logic
+│   └── data_analysis.py          # Basic analytics
+│
+├── database/
+│   ├── schema.sql                # Simple SQLite schema
+│   └── sample_data.sql           # Test data
+│
+└── docs/
+    ├── setup.md
+    ├── api.md
+    └── presentation.pptx         # For project demo
