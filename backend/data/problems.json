@@ -1,0 +1,274 @@
+{
+  "problems": [
+    {
+      "contestId": 1234,
+      "index": "A",
+      "name": "Beautiful Matrix",
+      "type": "PROGRAMMING",
+      "rating": 800,
+      "tags": ["implementation"],
+      "solvedCount": 45623
+    },
+    {
+      "contestId": 1234,
+      "index": "B",
+      "name": "Queue at the School",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": ["constructive algorithms", "graph matchings"],
+      "solvedCount": 32145
+    },
+    {
+      "contestId": 1234,
+      "index": "C",
+      "name": "Longest Palindrome",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": ["strings", "implementation"],
+      "solvedCount": 18765
+    },
+    {
+      "contestId": 1235,
+      "index": "A",
+      "name": "Two Sum",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": ["math", "implementation"],
+      "solvedCount": 28934
+    },
+    {
+      "contestId": 1235,
+      "index": "B",
+      "name": "Binary Search",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": ["binary search", "implementation"],
+      "solvedCount": 15432
+    },
+    {
+      "contestId": 1235,
+      "index": "C",
+      "name": "Dynamic Programming",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": ["dp", "math"],
+      "solvedCount": 9876
+    },
+    {
+      "contestId": 1236,
+      "index": "A",
+      "name": "Graph Traversal",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": ["graphs", "dfs and similar"],
+      "solvedCount": 12345
+    },
+    {
+      "contestId": 1236,
+      "index": "B",
+      "name": "Greedy Algorithm",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": ["greedy", "sortings"],
+      "solvedCount": 21098
+    },
+    {
+      "contestId": 1237,
+      "index": "A",
+      "name": "Array Manipulation",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": ["implementation", "data structures"],
+      "solvedCount": 25678
+    },
+    {
+      "contestId": 1237,
+      "index": "B",
+      "name": "Number Theory",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": ["number theory", "math"],
+      "solvedCount": 8765
+    },
+    {
+      "contestId": 1238,
+      "index": "A",
+      "name": "String Processing",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": ["strings", "implementation"],
+      "solvedCount": 19876
+    },
+    {
+      "contestId": 1238,
+      "index": "B",
+      "name": "Tree Algorithms",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": ["trees", "dfs and similar"],
+      "solvedCount": 6543
+    },
+    {
+      "contestId": 1239,
+      "index": "A",
+      "name": "Combinatorics",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": ["combinatorics", "math"],
+      "solvedCount": 11234
+    },
+    {
+      "contestId": 1239,
+      "index": "B",
+      "name": "Geometry",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": ["geometry", "math"],
+      "solvedCount": 4567
+    },
+    {
+      "contestId": 1240,
+      "index": "A",
+      "name": "Bit Manipulation",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": ["bitmasks", "implementation"],
+      "solvedCount": 14567
+    },
+    {
+      "contestId": 1240,
+      "index": "B",
+      "name": "Game Theory",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": ["games", "math"],
+      "solvedCount": 3456
+    },
+    {
+      "contestId": 1241,
+      "index": "A",
+      "name": "Sorting Algorithm",
+      "type": "PROGRAMMING",
+      "rating": 900,
+      "tags": ["sortings", "implementation"],
+      "solvedCount": 34567
+    },
+    {
+      "contestId": 1241,
+      "index": "B",
+      "name": "Two Pointers",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": ["two pointers", "implementation"],
+      "solvedCount": 18234
+    },
+    {
+      "contestId": 1242,
+      "index": "A",
+      "name": "Hashing",
+      "type": "PROGRAMMING",
+      "rating": 1400,
+      "tags": ["hashing", "data structures"],
+      "solvedCount": 13456
+    },
+    {
+      "contestId": 1242,
+      "index": "B",
+      "name": "Segment Tree",
+      "type": "PROGRAMMING",
+      "rating": 2000,
+      "tags": ["data structures", "trees"],
+      "solvedCount": 2345
+    },
+    {
+      "contestId": 1243,
+      "index": "A",
+      "name": "Prefix Sum",
+      "type": "PROGRAMMING",
+      "rating": 1100,
+      "tags": ["implementation", "math"],
+      "solvedCount": 23456
+    },
+    {
+      "contestId": 1243,
+      "index": "B",
+      "name": "Sliding Window",
+      "type": "PROGRAMMING",
+      "rating": 1300,
+      "tags": ["two pointers", "implementation"],
+      "solvedCount": 16789
+    },
+    {
+      "contestId": 1244,
+      "index": "A",
+      "name": "Matrix Operations",
+      "type": "PROGRAMMING",
+      "rating": 1000,
+      "tags": ["implementation", "math"],
+      "solvedCount": 27890
+    },
+    {
+      "contestId": 1244,
+      "index": "B",
+      "name": "Graph Coloring",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": ["graphs", "constructive algorithms"],
+      "solvedCount": 7890
+    },
+    {
+      "contestId": 1245,
+      "index": "A",
+      "name": "Recursion",
+      "type": "PROGRAMMING",
+      "rating": 1200,
+      "tags": ["implementation", "brute force"],
+      "solvedCount": 20123
+    },
+    {
+      "contestId": 1245,
+      "index": "B",
+      "name": "Backtracking",
+      "type": "PROGRAMMING",
+      "rating": 1700,
+      "tags": ["brute force", "implementation"],
+      "solvedCount": 5678
+    },
+    {
+      "contestId": 1246,
+      "index": "A",
+      "name": "Heap Operations",
+      "type": "PROGRAMMING",
+      "rating": 1500,
+      "tags": ["data structures", "greedy"],
+      "solvedCount": 10234
+    },
+    {
+      "contestId": 1246,
+      "index": "B",
+      "name": "Trie Data Structure",
+      "type": "PROGRAMMING",
+      "rating": 1800,
+      "tags": ["data structures", "strings"],
+      "solvedCount": 4123
+    },
+    {
+      "contestId": 1247,
+      "index": "A",
+      "name": "Union Find",
+      "type": "PROGRAMMING",
+      "rating": 1600,
+      "tags": ["dsu", "graphs"],
+      "solvedCount": 8456
+    },
+    {
+      "contestId": 1247,
+      "index": "B",
+      "name": "Shortest Path",
+      "type": "PROGRAMMING",
+      "rating": 1900,
+      "tags": ["graphs", "shortest paths"],
+      "solvedCount": 3789
+    }
+  ]
+}
