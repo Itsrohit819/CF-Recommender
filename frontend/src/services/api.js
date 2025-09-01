@@ -1,6 +1,6 @@
 const API_BASE =
   process.env.NODE_ENV === "production"
-    ? "https://cf-ka65.onrender.com/api"
+    ? "https://cf-recommender-i50o.onrender.com/api"
     : "http://localhost:5000/api";
 
 
